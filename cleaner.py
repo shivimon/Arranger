@@ -1,3 +1,4 @@
+p#script to clean desktopm files...
 import os
 import shutil
 
